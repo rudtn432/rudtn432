@@ -31,10 +31,10 @@ Here are some ideas to get you started:
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
-          <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat">
-          <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat">
+          <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat">
+          <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white">
+          <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white">
           </div>
     </div>
     

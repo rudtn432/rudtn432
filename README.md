@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Github-Profile-readme-Editor</title>
 </head>
 
 <body>
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/C#-512BD4?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=C%2B%2B&logoColor=white">

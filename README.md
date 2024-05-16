@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <body>
  <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=GyeongSu%20Han&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=GyeongSu%20Han&animation=&fontColor=FFFFFF&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 게임 클라이언트 개발자 한경수입니다😊 </h2>  

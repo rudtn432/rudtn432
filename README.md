@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/-C%23-512BD4?logo=Csharp&style=flat">
           <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat">
-          <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white">
+          <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
           <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=unrealengine&logoColor=white">
           </div>
     </div>
